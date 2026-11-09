@@ -47,7 +47,7 @@ To explore how machine learning can be used to analyze skills and predict potent
 2. Navigate to the project folder:
 
    ```bash
-   cd AI-Job-Predictor
+   cd AI-Job_Role_Predictor
    ```
 
 3. Install the required libraries:
