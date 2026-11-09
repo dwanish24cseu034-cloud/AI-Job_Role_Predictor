@@ -10,7 +10,7 @@ The application uses Python and machine learning techniques to process skill-rel
 
 ## 🎯 Project Objective
 
-To explore how machine learning can be used to analyze skills and predict potential job roles, helping users understand career opportunities based on their skill sets.
+To explore how machine learning can be used to analyze skills and predict potential job roles, helping users explore career opportunities based on their skill sets.
 
 ## 🛠️ Technologies Used
 
