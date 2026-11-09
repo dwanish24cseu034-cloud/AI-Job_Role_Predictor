@@ -8,6 +8,10 @@ This project was developed as part of the **Honeywell FutureSkills Edge Program*
 
 The application uses Python and machine learning techniques to process skill-related data and predict suitable job roles.
 
+## 🖥️ Application Preview
+
+![AI Job Role Predictor Demo](job-predictor-demo.png)
+
 ## Project Objective
 
 To explore how machine learning can be used to analyze skills and predict potential job roles, helping users explore career opportunities based on their skill sets.
