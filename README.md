@@ -76,6 +76,13 @@ To explore how machine learning can be used to analyze skills and predict potent
 - Building an interactive application using Streamlit.
 - Saving and loading trained machine learning models.
 
+### AI-Based Job Role Predictor
+
+An AI-based application that predicts suitable job roles based on user-provided skills.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+[View Project](https://github.com/dwanish24cseu034-cloud/AI-Job_Role_Predictor)
 ---
 
 If you find this project interesting, feel free to explore the repository!
