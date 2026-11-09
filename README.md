@@ -1,18 +1,18 @@
-# 🤖 AI-Based Job Role Predictor
+# AI-Based Job Role Predictor
 
 An AI-based job role prediction project that predicts suitable job roles based on the skills provided by the user.
 
-## 📌 About the Project
+## About the Project
 
 This project was developed as part of the **Honeywell FutureSkills Edge Program**.
 
 The application uses Python and machine learning techniques to process skill-related data and predict suitable job roles.
 
-## 🎯 Project Objective
+## Project Objective
 
 To explore how machine learning can be used to analyze skills and predict potential job roles, helping users explore career opportunities based on their skill sets.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** – Programming language
 - **Pandas** – Data manipulation and analysis
@@ -21,7 +21,7 @@ To explore how machine learning can be used to analyze skills and predict potent
 - **Jupyter Notebook** – Model development and experimentation
 - **Streamlit** – Interactive web application
 
-## 📂 Project Structure
+## Project Structure
 
 - `app.py` – Streamlit application
 - `job_predictor.ipynb` – Jupyter Notebook for model development
@@ -36,7 +36,7 @@ To explore how machine learning can be used to analyze skills and predict potent
 3. The trained machine learning model analyzes the input.
 4. The application predicts a suitable job role.
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
 
@@ -55,21 +55,24 @@ To explore how machine learning can be used to analyze skills and predict potent
    ```bash
    pip install pandas numpy scikit-learn streamlit
    ```
-
+or
+   ```bash
+   pip install -r requirements.txt
+   ```
 4. Run the application:
 
    ```bash
    streamlit run app.py
    ```
 
-## 📊 Project Details
+## Project Details
 
 - Dataset size: 1,000 records
 - Input features: Skills
 - Prediction target: Job Role
 - Model development and preprocessing performed using Python.
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 - Hands-on experience with Python and data preprocessing.
 - Understanding the basics of machine learning workflows.
@@ -79,4 +82,4 @@ To explore how machine learning can be used to analyze skills and predict potent
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+If you find this project interesting, feel free to explore the repository!
