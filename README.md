@@ -29,7 +29,7 @@ To explore how machine learning can be used to analyze skills and predict potent
 - `job_model.pkl` – Saved trained model
 - `vectorizer.pkl` – Saved vectorizer
 
-## ⚙️ How It Works
+## How It Works
 
 1. The user enters their skills.
 2. The input is processed using the saved vectorizer.
@@ -52,10 +52,6 @@ To explore how machine learning can be used to analyze skills and predict potent
 
 3. Install the required libraries:
 
-   ```bash
-   pip install pandas numpy scikit-learn streamlit
-   ```
-or
    ```bash
    pip install -r requirements.txt
    ```
